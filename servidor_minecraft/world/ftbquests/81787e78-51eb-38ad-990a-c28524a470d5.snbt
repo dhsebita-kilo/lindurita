@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "81787e7851eb38ad990ac28524a470d5"
+	name: "megakong045#81787e78"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

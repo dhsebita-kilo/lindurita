@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1897ebb2b3393f7889a890909b314f7f"
+	name: "valenth47764#1897ebb2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "wasd.pearl:recipes/crafter_recipe",
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_pearl",
+      "nbt": "{CustomModelData:6370017}"
+    },
+    "title": "Honey Pearl",
+    "description": "Take no damage when it lands.",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{CustomModelData:6370017}",
+            "items": [
+              "minecraft:ender_pearl"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

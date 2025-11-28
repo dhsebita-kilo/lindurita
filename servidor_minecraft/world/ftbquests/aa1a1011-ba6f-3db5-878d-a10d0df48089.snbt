@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "aa1a1011ba6f3db5878da10d0df48089"
+	name: "SrCoral#aa1a1011"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

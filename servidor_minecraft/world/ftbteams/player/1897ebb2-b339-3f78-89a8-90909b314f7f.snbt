@@ -1,0 +1,17 @@
+{
+	id: "1897ebb2-b339-3f78-89a8-90909b314f7f"
+	type: "player"
+	player_name: "valenth47764"
+	ranks: {
+		1897ebb2-b339-3f78-89a8-90909b314f7f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "valenth47764"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF70"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

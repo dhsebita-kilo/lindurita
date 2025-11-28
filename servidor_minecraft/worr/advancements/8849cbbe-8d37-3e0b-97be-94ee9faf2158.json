@@ -1,0 +1,238 @@
+{
+  "wasd.pearl:recipes/hanging_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/swap_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/instant_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/enchanted_golden_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/patron/smooth_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/dragon_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/jester_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.lib:wasd/root": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/slow_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/freeze_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/patron/star_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:crafter_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/crafter_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/fireball_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:pack": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/slime_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/ghost_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/no_gravity_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/cursed_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/fast_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/root": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "uncrafter:recipes/uncrafter": {
+    "criteria": {
+      "has_block": "2025-11-24 01:42:38 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/sugar_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/drop_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/infested_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/party_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/safety_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/ninja_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/chorus_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/magnetic_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-11-24 01:45:46 +0000",
+      "minecraft:savanna": "2025-11-24 01:39:08 +0000"
+    },
+    "done": false
+  },
+  "wasd.pearl:recipes/troll_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "uncrafter:recipes/advanced_uncrafter": {
+    "criteria": {
+      "has_block": "2025-11-24 01:42:38 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/golden_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/patron/lightning_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/patron/purrl_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "wasd.pearl:recipes/honey_recipe": {
+    "criteria": {
+      "requirement": "2025-11-24 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

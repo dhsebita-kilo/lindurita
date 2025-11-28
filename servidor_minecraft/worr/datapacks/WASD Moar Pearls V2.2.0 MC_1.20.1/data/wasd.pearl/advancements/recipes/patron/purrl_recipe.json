@@ -1,0 +1,20 @@
+{
+  "parent": "wasd.pearl:recipes/patron/purrl",
+  "display": {
+    "icon": {
+      "item": "minecraft:clay_ball",
+      "nbt": "{CustomModelData:6370029}"
+    },
+    "title": "Ender Purr-l",
+    "description": "\nString\nEnder Pearl\n",
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

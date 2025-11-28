@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "478e02a7b2e236cbaef4221a5ba8a85b"
+	name: "cairo_zey#478e02a7"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

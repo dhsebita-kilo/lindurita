@@ -1,0 +1,17 @@
+{
+	id: "30b1f120-3822-3da7-bc47-14e448d41b04"
+	type: "player"
+	player_name: "AceOfSparks"
+	ranks: {
+		30b1f120-3822-3da7-bc47-14e448d41b04: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "AceOfSparks"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
