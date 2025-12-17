@@ -1,0 +1,15 @@
+{
+	id: "81787e78-51eb-38ad-990a-c28524a470d5"
+	type: "player"
+	player_name: "megakong045"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "megakong045"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8C59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

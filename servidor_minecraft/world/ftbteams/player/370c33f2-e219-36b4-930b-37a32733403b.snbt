@@ -1,0 +1,17 @@
+{
+	id: "370c33f2-e219-36b4-930b-37a32733403b"
+	type: "player"
+	player_name: "diegolxd16"
+	ranks: {
+		370c33f2-e219-36b4-930b-37a32733403b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "diegolxd16"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D5FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "wasd.pearl:recipes/crafter_recipe",
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_pearl",
+      "nbt": "{CustomModelData:6370012}"
+    },
+    "title": "Cursed Pearl",
+    "description": "Speeds you up if it lands on soul sand, but slows you down if not.",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{CustomModelData:6370012}",
+            "items": [
+              "minecraft:ender_pearl"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

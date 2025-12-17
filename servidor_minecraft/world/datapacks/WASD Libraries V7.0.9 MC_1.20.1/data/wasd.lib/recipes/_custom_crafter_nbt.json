@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#C#",
+        "SSS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "S": {
+            "item": "minecraft:smooth_stone"
+        },
+        "C": {
+            "item": "minecraft:crafting_table"
+        }
+    },
+    "result": {
+        "item": "minecraft:item_frame",
+        "data":"{display:{Name:'{\"text\":\"Custom Crafter\",\"italic\":false}'},CustomModelData:6370001,EntityTag:{Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b,Tags:[\"wasd.item_frame_block\",\"wasd.custom_crafter\"],Facing:1b}}"
+    }
+}

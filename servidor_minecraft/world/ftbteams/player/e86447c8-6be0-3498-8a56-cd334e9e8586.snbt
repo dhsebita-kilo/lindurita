@@ -1,0 +1,17 @@
+{
+	id: "e86447c8-6be0-3498-8a56-cd334e9e8586"
+	type: "player"
+	player_name: "Ethan_30"
+	ranks: {
+		e86447c8-6be0-3498-8a56-cd334e9e8586: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Ethan_30"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5966FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "wasd.pearl:recipes/crafter_recipe",
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_pearl",
+      "nbt": "{CustomModelData:6370010}"
+    },
+    "title": "Drop Pearl",
+    "description": "Flies a short distance, then drops straight down.",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{CustomModelData:6370010}",
+            "items": [
+              "minecraft:ender_pearl"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

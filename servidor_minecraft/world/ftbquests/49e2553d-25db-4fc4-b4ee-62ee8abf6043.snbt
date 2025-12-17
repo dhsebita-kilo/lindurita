@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "49e2553d25db4fc4b4ee62ee8abf6043"
+	name: "las_baibis#49e2553d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

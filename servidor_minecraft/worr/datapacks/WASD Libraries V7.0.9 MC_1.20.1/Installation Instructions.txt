@@ -1,0 +1,13 @@
+Thanks for Downloading.
+
+This video explains everything: https://youtu.be/HD2qoKwyI4g
+
+To install,
+
+1. Place this downloaded folder (the .zip these instructions are contained within) into your world's "datapacks" folder.
+
+2. Run the command "/reload" to install the data pack. This will be confirmed with a confirmation message.
+(Note, you must be an operator with commands enabled to run the /reload command).
+
+If you have any issues installing, visit our discord and ask for help in the #help-desk channel.
+https://discord.gg/yqk4VfA

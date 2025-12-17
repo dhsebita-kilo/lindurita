@@ -1,0 +1,20 @@
+{
+	id: "49e2553d-25db-4fc4-b4ee-62ee8abf6043"
+	type: "party"
+	owner: "81787e78-51eb-38ad-990a-c28524a470d5"
+	ranks: {
+		81787e78-51eb-38ad-990a-c28524a470d5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "las baibis"
+		"ftbteams:description": "dasdadas"
+		"ftbteams:color": "#D5FFB4"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1764365744381L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"megakong045\"}]}" }
+		{ from: "81787e78-51eb-38ad-990a-c28524a470d5", date: 1764365772566L, text: "{\"text\":\"/invite cairo_zey\"}" }
+	]
+	extra: { }
+}

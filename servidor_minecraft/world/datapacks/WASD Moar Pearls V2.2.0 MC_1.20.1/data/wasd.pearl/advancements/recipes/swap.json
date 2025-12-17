@@ -1,0 +1,30 @@
+{
+  "parent": "wasd.pearl:recipes/crafter_recipe",
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_pearl",
+      "nbt": "{CustomModelData:6370008}"
+    },
+    "title": "Swap Pearl",
+    "description": "Switches places with mobs/players hit by it!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{CustomModelData:6370008}",
+            "items": [
+              "minecraft:ender_pearl"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

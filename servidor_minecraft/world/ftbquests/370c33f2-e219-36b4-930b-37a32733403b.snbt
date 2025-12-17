@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "370c33f2e21936b4930b37a32733403b"
+	name: "diegolxd16#370c33f2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

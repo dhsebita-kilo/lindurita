@@ -1,0 +1,20 @@
+{
+  "parent": "wasd.pearl:crafter",
+  "display": {
+    "icon": {
+      "item": "minecraft:clay_ball",
+      "nbt": "{CustomModelData:6370301}"
+    },
+    "title": "Ender Crafter",
+    "description": "Used to craft all the pearls in this pack.",
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

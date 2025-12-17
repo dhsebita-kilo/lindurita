@@ -1,0 +1,17 @@
+{
+	id: "478e02a7-b2e2-36cb-aef4-221a5ba8a85b"
+	type: "player"
+	player_name: "cairo_zey"
+	ranks: {
+		478e02a7-b2e2-36cb-aef4-221a5ba8a85b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "cairo_zey"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C301FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

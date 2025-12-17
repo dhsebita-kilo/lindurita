@@ -1,0 +1,30 @@
+{
+  "parent": "wasd.pearl:recipes/patron/patreon",
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_pearl",
+      "nbt": "{CustomModelData:6370026}"
+    },
+    "title": "Star Pearl",
+    "description": "Can be reused infinitely.",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{CustomModelData:6370026}",
+            "items": [
+              "minecraft:ender_pearl"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

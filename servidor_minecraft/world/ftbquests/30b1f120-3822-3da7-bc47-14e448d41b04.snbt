@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "30b1f12038223da7bc4714e448d41b04"
+	name: "AceOfSparks#30b1f120"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

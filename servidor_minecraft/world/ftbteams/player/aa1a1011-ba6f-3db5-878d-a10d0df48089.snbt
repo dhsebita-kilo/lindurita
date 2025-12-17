@@ -1,0 +1,17 @@
+{
+	id: "aa1a1011-ba6f-3db5-878d-a10d0df48089"
+	type: "player"
+	player_name: "SrCoral"
+	ranks: {
+		aa1a1011-ba6f-3db5-878d-a10d0df48089: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SrCoral"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

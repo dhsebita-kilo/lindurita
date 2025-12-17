@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "#C#",
+        "#E#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ender_pearl"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "C": {
+            "item": "minecraft:crafting_table"
+        }
+    },
+    "result": {
+        "item": "minecraft:item_frame",
+        "data":"{display:{Name:'{\"text\":\"Ender Crafter\",\"italic\":false}'},CustomModelData:6370003,EntityTag:{Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b,Tags:[\"wasd.item_frame_block\",\"wasd.pearl_crafter\"],Facing:1b}}"
+    }
+}

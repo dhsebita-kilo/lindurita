@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e86447c86be034988a56cd334e9e8586"
+	name: "Ethan_30#e86447c8"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
